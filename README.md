@@ -1,9 +1,11 @@
 # excel-sales-dashboard-analysis
 Interactive sales dashboard built with Excel.
 
+
 Project Overview
 
 This project presents an interactive Sales Performance Dashboard built using Excel. The goal was to analyze sales data and generate actionable insights across products, countries, and time.
+
 
 Tools & Skills Used
 
@@ -19,9 +21,11 @@ Data Visualization
 
 Dashboard Design
 
+
 Key Features
 
 Interactive dashboard with slicer (Category filter)
+
 
 KPI metrics:
 
@@ -39,6 +43,7 @@ Top 10 Products by Revenue
 
 Country Contribution Analysis
 
+
 Key Insights
 
 Certain product categories significantly outperform others in revenue generation
@@ -47,11 +52,13 @@ Sales show noticeable variation across years
 
 Revenue contribution is concentrated among a few key countries
 
+
 Files
 
 Sales_Analysis_Dashboard.xlsx
 
 Dashboard screenshots
+
 
 What I Learned
 
